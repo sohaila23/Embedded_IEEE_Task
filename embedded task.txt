@@ -1,0 +1,25 @@
+Q1:
+ans:C. The sentence will get printed in reverse order
+Q2:
+ans:the code demonstrates the use of arrays and addresses,
+An integer array named arr is declared and initialized with five elements: 2, 3, 4, 5, and 6.
+The printf() function is used to print the addresses of the array and its first element.
+but i couldn't calculate the output.
+
+Q3:
+ans:2- Compiler
+Q4:
+ans:1- a =1 and b =1 and c=1
+Q5:
+ans:4- A |= 1 << bit
+Q6:
+ans:3- Runtime error
+Q7:
+ans:1- Declaration
+Q8:
+ans:2- sizeof() operator isn’t defined for a pointer of void type.
+       << Bouns questions >>
+Q1:
+ans:The compilation is the process of converting the source code of the C language into machine code.and it consist of a set of stages.
+Stages of Compiling a C Program:
+1. Preprocessing   2. Compiling   3. Assembly  4. Linking
